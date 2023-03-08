@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi 👋 I'm **Ari Budiman**.
 
-<!--
-**rhyman18/rhyman18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently freelancer and take order for request create website 
+- 🌱 I’m currently learning about cloud technology for back-end apps
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 How to reach me: iaid.aribudiman@gmail.com
+- ⚡ Fun fact: I love to watch Anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <br>
+  <br>
+  
+  ### Github Statistic
+<p align="left">
+<a href="https://github.com/rhyman18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhyman18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhyman18&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/rhyman18/">LinkedIn</a>
+- iaid.aribudiman@gmail.com
+- <a href="https://facebook.com/rhyman18">Facebook</a>
+- <a href="https://twitter.com/rhyman18">Twitter</a>
