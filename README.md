@@ -1,4 +1,4 @@
-### Hi 👋 I'm **Ari Budiman**.
+<img align="center" src="header.png" />
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
@@ -16,8 +16,10 @@ An independent Software Engineer who loves to create and share projects about we
   
 ### Github Statistic
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhyman18&count_private=true&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyman18&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/rhyman18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhyman18&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhyman18&layout=compact&theme=tokyonight" />
+  </a>
 </div>
 
 ### Reach me on
