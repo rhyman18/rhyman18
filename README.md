@@ -24,7 +24,7 @@ An independent Programmer who loves to create and share projects about web and m
   <!-- <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /> -->
   <!-- <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /> -->
   <img align="left" alt="PHP" title="PHP" width="21px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-  <!-- <img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="21px" src="https://laravel.com/img/logomark.min.svg" /> -->
+  <img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="21px" src="https://laravel.com/img/logomark.min.svg" />
   <img align="left" alt="CodeIgniter" title="CodeIgniter (PHP Framework)" width="21px" src="https://www.martincap.io/images/icons/devicon/codeigniter/codeigniter-plain.svg" />
   <img align="left" alt="MariaDB" title="MariaDB (Database)" width="21px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent-300x245.png" />
 </a>
