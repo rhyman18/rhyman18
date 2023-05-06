@@ -1,12 +1,12 @@
 <img align="center" src="header.png" />
 
-An independent Programmer who loves to create and share projects about web and mobile technology! I've enjoyed PHP & JavaScript and make it the main language in creating a project.
+An independent Programmer who loves to create and share projects about web application technology! I've enjoyed PHP & JavaScript and make it the main language in creating a project. My priority is mastering Laravel Framework.
 
 - 🔭 I’m currently freelancer and take order for request create website 
 - 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about web development or JavaScript and PHP
 - 📫 How to reach me: iaid.aribudiman@gmail.com
-- ⚡ Fun fact: I love to watch Anime
+- ⚡ Fun fact: I love playing games and watch Anime
 
 ### Tech Stack
 <a href="https://github.com/rhyman18">
@@ -39,6 +39,7 @@ An independent Programmer who loves to create and share projects about web and m
 </div>
 
 ### Reach me on
+- <a href="https://www.aribudiman.site">Portofolio Website</a>
 - <a href="https://linkedin.com/in/rhyman18/">LinkedIn</a>
 - iaid.aribudiman@gmail.com
 - <a href="https://facebook.com/rhyman18">Facebook</a>
