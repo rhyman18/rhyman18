@@ -1,6 +1,6 @@
 <img align="center" src="header.png" />
 
-An independent Programmer who loves to create and share projects about web application technology! I've enjoyed PHP & JavaScript and make it the main language in creating a project. My priority is mastering Laravel Framework.
+An independent Programmer who loves to create and share projects about web application technology! I've enjoyed PHP & JavaScript and make it the main language in creating a project. My speciality is Laravel Framework.
 
 - 🔭 I’m currently freelancer and take order for request create website 
 - 🌱 I’m currently learning about cloud technology for back-end apps
