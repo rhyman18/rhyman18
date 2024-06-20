@@ -2,7 +2,7 @@
 
 An independent Programmer who loves to create and share projects about web application technology! I've enjoyed PHP & JavaScript and make it the main language in creating a project. My speciality is Laravel Framework.
 
-- 🔭 I’m currently freelancer and take order for request create website 
+- 🔭 I’m currently working on software house, and take freelancer for request create website 
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript and PHP
 - 📫 How to reach me: iaid.aribudiman@gmail.com
@@ -27,7 +27,8 @@ An independent Programmer who loves to create and share projects about web appli
   <img align="left" alt="PHP" title="PHP" width="21px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
   <img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="21px" src="https://laravel.com/img/logomark.min.svg" />
   <img align="left" alt="CodeIgniter" title="CodeIgniter (PHP Framework)" width="21px" src="https://www.codeigniter.com/assets/icons/ci-logo.png" />
-  <img align="left" alt="MariaDB" title="MariaDB (Database)" width="21px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_white-transparent-300x245.png" />
+  <img align="left" alt="MySQL" title="MySQL (Database)" width="21px" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" />
+  <img align="left" alt="Docker" title="Docker (Container)" width="21px" src="https://www.pikpng.com/pngl/b/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" />
 </a>
 <br>
   
